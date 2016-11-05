@@ -1,7 +1,6 @@
 #Game name: Space Travel
 #Author: Yanqing Wu
 #Start date: May 27, 2016; Friday.
-#I have spent near 15 hrs on this project.
 #Current version: 1.0.0
 
 #Intro: I am a completely new programmer. This is my very first game in Python.
